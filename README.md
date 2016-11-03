@@ -1,1 +1,2 @@
 # lingaProj
+Hello Readme.
