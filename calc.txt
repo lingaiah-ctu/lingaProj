@@ -1,4 +1,5 @@
 
 1.Addtion of two numbers are 3 and 5 is 8.
 
-1.multiplication of two numbers are 3 and 5 is 15.
+2.multiplication of two numbers are 3 and 5 is 15.
+3.Division of two numbers are 15 and 5 is 3.
